@@ -1,0 +1,7 @@
+**Get Tablet Specs**
+
+- Open the debugger in OpenTabletDriver from the top menu. `Tablets` > `Tablet Debugger`.
+- Find the highest position values possible for your tablet. This is typically in the bottom right corner.
+  If you are having trouble with this, try moving very slowly towards the end of the tablet's area.
+  You may also do each axis one at a time. For example, moving to the middle of the right side for X and the middle of the bottom for Y.
+- Find the highest pressure value possible. Press down on the pen until the pressure value stops increasing.
