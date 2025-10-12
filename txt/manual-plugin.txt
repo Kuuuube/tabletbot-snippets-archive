@@ -3,11 +3,11 @@
 - Download the plugin zip file from the [OpenTabletDriver Plugin Listing](https://opentabletdriver.net/Plugins).
 - Unzip the plugin and locate the folder containing the plugin's `.dll` files.
 - Open the OpenTabletDriver plugins folder.
-    Windows: `%localappdata%\OpenTabletDriver\Plugins`
-    Linux: `~/.config/OpenTabletDriver/Plugins`
-    MacOS: `~/Library/Application Support/OpenTabletDriver/Plugins`
+  Windows: `%localappdata%\OpenTabletDriver\Plugins`
+  Linux: `~/.config/OpenTabletDriver/Plugins`
+  MacOS: `~/Library/Application Support/OpenTabletDriver/Plugins`
 - Move the folder containing the dlls and other files to the OpenTabletDriver `Plugins` folder.
-    Do not move the dll files or other plugin contents directly into the plugins folder. Each plugin must be in its own folder inside the plugins folder.
+  Do not move the dll files or other plugin contents directly into the plugins folder. Each plugin must be in its own folder inside the plugins folder.
 - Restart OpenTabletDriver.
 
 When complete, the folder structure should look similar to this:
