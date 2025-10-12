@@ -1,0 +1,14 @@
+**USBPcap Part Two**
+
+- Select the specified filter number
+- Enter a name such as `capture` then press enter
+- Do the following:
+ㅤㅤMove the pen around on the tablet for 5 seconds
+ㅤㅤUnplug the tablet from your computer
+ㅤㅤWait 2 seconds
+ㅤㅤPlug in the tablet again
+ㅤㅤWait 2 seconds
+ㅤㅤMove the pen around on the tablet for 5 seconds
+- Close the terminal
+- A new file has been generated with the name you gave in the usbpcap folder
+- Upload that file here

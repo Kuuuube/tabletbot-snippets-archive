@@ -1,0 +1,6 @@
+**If you are experiencing crashing with OpenTabletDriver**
+
+- Make a new folder and move the OpenTabletDriver executables there
+- Make sure that there is __no__ `Configurations` folder if you are using any version higher than 0.5.3.3.
+- Delete or move `%localappdata%\\OpenTabletDriver\\settings.json`
+- Delete or move `%localappdata%\\OpenTabletDriver\\Plugins`

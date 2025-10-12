@@ -1,0 +1,4 @@
+**Read the TabletBot message**
+
+TabletBot snippets are not automated; they are sent manually via commands to help give quick instructions.
+You should read and follow them.

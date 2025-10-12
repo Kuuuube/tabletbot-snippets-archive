@@ -1,0 +1,11 @@
+**Frequently Asked Questions (Linux)**
+
+**Linux FAQ** <https://opentabletdriver.net/Wiki/FAQ/Linux>
+- Ghost Cursor <https://opentabletdriver.net/Wiki/FAQ/Linux#ghost-cursor>
+- Failed to open device stream <https://opentabletdriver.net/Wiki/FAQ/Linux#fail-device-streams>
+- Device currently in use <https://opentabletdriver.net/Wiki/FAQ/Linux#argumentoutofrangeexception>
+- Failed to initialize virtual tablet/pointer (EACCESS & ENODEV) <https://opentabletdriver.net/Wiki/FAQ/Linux#fail-virtual-device>
+- Poor performance with Nvidia <https://opentabletdriver.net/Wiki/FAQ/Linux#performance-nvidia>
+- Stuck cursor in osu!lazer (Wayland) <https://opentabletdriver.net/Wiki/FAQ/Linux#osu-lazer-broken-input-wayland>
+- CTL-x100 (Wacom Intuos S/M) not detected <https://opentabletdriver.net/Wiki/FAQ/Linux#CTL-x100-android-mode>
+- X11/Wayland Session not detected <https://opentabletdriver.net/Wiki/FAQ/Linux#display-session-not-detected>

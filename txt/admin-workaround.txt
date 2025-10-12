@@ -1,0 +1,15 @@
+**Administrator account workaround**
+
+- Create an account with no perms (if you don't have one)
+- Move OTD to that account
+- On the non-admin account, create a new .bat file, insert inside the following:
+```cd path to OTD folder]
+start OpenTabletDriver.UX.Wpf.exe```
+
+- Create a shortcut, in the path, paste the following: 
+```\"C:\\Windows\\System32\\cmd.exe\" /k runas /user:enter non-admin account name here] path to previous batch file]```
+
+- Go into the property of the existing osu! shortcut (if you have one) and change the location to 
+```\"C:\\Windows\\System32\\cmd.exe\" /k runas /user:enter non-admin account name here] path to osu.exe here]```
+
+Remember to replace all the bracketed arguments with their corresponding value. You may also need to use \"quotes\" for file paths.

@@ -1,0 +1,8 @@
+**Support Channels**
+
+Support channels are dedicated to getting help for issues relating to OpenTabletDriver.
+Upon messaging, mention what tablet (manufacturer and model number) you're using and your operating system.    
+
+- <#615611007951306863>
+- <#723399565780189234>
+- <#723399607522033664>

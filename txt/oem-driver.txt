@@ -1,0 +1,5 @@
+**Running OTD along side OEM drivers**
+
+Having OEM drivers (Wacom, Huion, XP-Pen, etc.) installed while using OpenTabletDriver is unsupported as they will take precedence over OpenTabletDriver.
+At best the settings you have in OpenTabletDriver will not apply, at worst you will experience double/teleporting cursor.
+We recommend uninstalling any OEM drivers you have installed and only use OpenTabletDriver.

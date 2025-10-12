@@ -1,0 +1,6 @@
+**Enable User Account Control**
+
+- Press the windows key and search for `User Account Control`
+- Put the slider on one of the top two options
+- Click `OK`
+- Restart your computer

@@ -1,0 +1,1 @@
+{"id":"embed_1313","type":"rich","rawTitle":"Exporting diagnostics","rawDescription":"- Start OpenTabletDriver (if it is not already running)\n- Go to `Help` -> `Export Diagnostics` in the top menu\n- Save the file, then upload here.","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}

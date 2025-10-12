@@ -1,0 +1,7 @@
+**WinUSB setup instructions for Windows**
+
+- Download Zadig <https://github.com/pbatard/libwdi/releases/download/b755/zadig-2.6.exe>
+- Start zadig
+- Options > show all devices
+- Click on your tablet (for the specified interface)
+- Click on replace driver

@@ -1,0 +1,6 @@
+**Start OTD minimized on boot of Windows**
+
+- Right click OpenTabletDriver.UX.Wpf.exe -> Create shortcut
+- Right click shortcut -> Properties -> Run -> Minimized
+- Press Win + R -> Type shell:startup -> Press Enter
+- Move the shortcut to the folder that opened

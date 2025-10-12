@@ -1,0 +1,11 @@
+**Uninstalling WinUSB with device manager**
+
+- Open \"Device Manager\"
+- At the top click view > device by container
+- Look at the list of devices
+- Find your tablet
+- Open the dropdown menu (container) next to the tablet
+- In the drop down container, find any of the following and right click them: <OEM> tablet (e.g. “Wacom Tablet”; “Gaomon Tablet”), the model number (e.g. “CTL-472”), or the name of the tablet (“Wacom Intuos S”)
+- Click on update -> browse my computer for drivers -> let me pick from a list of available drivers -> usb input device, usb composite device, or hid compliant device -> next
+- Repeat the first two steps if any other matching devices are present
+- Replug your tablet and check if otd detects it

@@ -1,0 +1,8 @@
+**How to find stack traces on Windows**
+
+- Open Event Viewer (you can find it by pressing the windows key and searching `Event Viewer`)
+- Expand `Windows Logs` on the left menu
+- Select `Application`
+- Find an error with `.NET Runtime` in the `Source` column and check that the error is from OTD
+- Copy the contents of the box where it says \"Application: OpenTabletDriver...\"
+- Send what you have copied here
