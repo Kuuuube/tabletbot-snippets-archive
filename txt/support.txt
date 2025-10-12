@@ -1,0 +1,6 @@
+**What About Support for xxx Tablet?**
+
+
+[Click here for a full list of supported tablets and caveats.](https://opentabletdriver.net/Tablets)
+
+We try to support as many tablets as we can get our hands on, but there may be some missing. Fear not! Support can be added relatively easily for (most) tablets. Toss a message in <#1149679256981479464> or a support channel to get yours added!

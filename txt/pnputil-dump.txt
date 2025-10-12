@@ -1,0 +1,3 @@
+**Get PnPUtil Device and Driver Info**
+
+Open a terminal as admin then run the following commands:```pnputil /enum-drivers > %USERPROFILE%/drivers.txt``````pnputil /enum-devices /connected /drivers > %USERPROFILE%/devices.txt``````explorer "%USERPROFILE%"```You should see a file explorer window pop up. Find the `drivers.txt` and `devices.txt` in that folder and upload them here.
