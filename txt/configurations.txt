@@ -2,3 +2,10 @@ Configuration override on Windows
 - Open the folder containing the OpenTabletDriver executable files (`OpenTabletDriver.Daemon.exe` and `OpenTabletDriver.UX.Wpf.exe`).
 - Create a folder named `Configurations` next to the executables.
 - Move the specified config files into the `Configurations` folder.
+
+When complete, the folder structure should look like this:
+```OTD folder
+├───Configurations
+│   └───specified config.json
+├───OpenTabletDriver.Daemon.exe
+└───OpenTabletDriver.UX.Wpf.exe```
