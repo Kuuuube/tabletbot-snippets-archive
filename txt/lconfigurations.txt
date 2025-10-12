@@ -1,0 +1,5 @@
+**Configuration override on Linux**
+
+- Open `~/.local/share/OpenTabletDriver/Configurations/`.
+  Create it if it does not exist.
+- Move the specified config files into the `Configurations` folder.
