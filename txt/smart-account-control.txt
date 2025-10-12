@@ -1,0 +1,4 @@
+**Disable Smart App Control**
+
+- Press the windows key and search `Smart App Control`
+- Set it to `Off`
