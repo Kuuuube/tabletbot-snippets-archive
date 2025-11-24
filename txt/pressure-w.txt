@@ -1,6 +1,7 @@
 **Enable pressure support for Windows**
 
-- Install VMulti Driver <https://github.com/X9VoiD/vmulti-bin/releases/latest> (NOT VMultiMode)
-- Install and follow instructions from WindowsInk's wiki <https://github.com/X9VoiD/VoiDPlugins/wiki/WindowsInk>
+- Install [VMulti Driver](https://github.com/X9VoiD/vmulti-bin/releases/latest) (NOT VMultiMode)
+- Install and follow instructions from [WindowsInk's wiki](https://github.com/Kuuuube/VoiDPlugins/wiki/WindowsInk)
+- Configure your application to use Windows Ink API. See [here](https://opentabletdriver.net/Wiki/FAQ/WindowsAppSpecific#art-programs) for app-specific configuration instructions.
 
 After that, you should be good to go!
