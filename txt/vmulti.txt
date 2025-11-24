@@ -1,6 +1,6 @@
 **Enable kernel-mode input reporting**
 
-- Install VMulti Driver <https://github.com/X9VoiD/vmulti-bin/releases/latest> (NOT> VMultiMode)>
-- Install and follow instructions from VMultiMode's wiki <https://github.com/X9VoiD/VoiDPlugins/wiki/VMultiMode>
+- Install [VMulti Driver](<https://github.com/X9VoiD/vmulti-bin/releases/latest>) (NOT VMultiMode)
+- Install and follow instructions from [VMultiMode's wiki](<https://github.com/Kuuuube/VoiDPlugins/wiki/VMultiMode>)
 
 After that, you should be good to go!
