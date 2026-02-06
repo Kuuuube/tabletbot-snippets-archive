@@ -1,6 +1,6 @@
 **Uninstalling WinUSB with device manager**
 
-- Open \"Device Manager\"
+- Open "Device Manager"
 - At the top click view > device by container
 - Look at the list of devices
 - Find your tablet

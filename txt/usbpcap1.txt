@@ -2,10 +2,10 @@
 
 - Close OTD
 - Install the OEM drivers (manufacturer's drivers) for your tablet
-- Download and install this tool: USBPcap <https://desowin.org/usbpcap/thankyou.html?file=1.5.4.0/USBPcapSetup-1.5.4.0.exe>
-- Open `C:\\Program Files\\USBPcap` in file explorer (you can copy paste that path in the path bar)
+- Download and install this tool: [USBPcap](https://desowin.org/usbpcap/thankyou.html?file=1.5.4.0/USBPcapSetup-1.5.4.0.exe)
+- Open `C:\Program Files\USBPcap` in file explorer (you can copy paste that path in the path bar)
 - Start USBPcapCMD.exe
 - A terminal window will appear, answer `n` at the first prompt and reboot your pc
-- Open `C:\\Program  Files\\USBPcap`
+- Open `C:\Program  Files\USBPcap`
 - Start USBPcapCMD.exe
 - Screenshot the full contents of the terminal window (you may need to expand the window)

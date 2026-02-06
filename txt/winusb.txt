@@ -1,3 +1,3 @@
 **Supported Huion/Gaomon tablet is not detected**
 
-Follow instructions from WinUSBCleanup <https://github.com/X9VoiD/WinUSBCleanup/releases/tag/v1.0>
+Follow instructions from [WinUSBCleanup](https://github.com/X9VoiD/WinUSBCleanup/releases/tag/v1.0)

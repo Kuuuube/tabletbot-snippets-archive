@@ -1,6 +1,6 @@
 **Huion H420/420 setup instructions for Windows**
 
-- Download Zadig <https://github.com/pbatard/libwdi/releases/download/b755/zadig-2.6.exe>
+- Download [Zadig](https://github.com/pbatard/libwdi/releases/download/b755/zadig-2.6.exe)
 - Start zadig
 - Options > show all devices
 - Click on H420 or 420 (interface 0)

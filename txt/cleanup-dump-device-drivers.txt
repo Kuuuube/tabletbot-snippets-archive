@@ -1,3 +1,5 @@
+**Export Device Driver Info**
+
 - Download [TabletDriverCleanup](https://github.com/X9VoiD/TabletDriverCleanup/releases/latest)
 - Extract all contents of the zip file
 - Run `dump.bat`

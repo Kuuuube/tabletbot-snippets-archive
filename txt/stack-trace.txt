@@ -4,5 +4,5 @@
 - Expand `Windows Logs` on the left menu
 - Select `Application`
 - Find an error with `.NET Runtime` in the `Source` column and check that the error is from OTD
-- Copy the contents of the box where it says \"Application: OpenTabletDriver...\"
+- Copy the contents of the box where it says "Application: OpenTabletDriver..."
 - Send what you have copied here
