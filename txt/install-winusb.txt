@@ -1,6 +1,6 @@
 **WinUSB setup instructions for Windows**
 
-- Download Zadig <https://github.com/pbatard/libwdi/releases/download/b755/zadig-2.6.exe>
+- Download Zadig <https://github.com/pbatard/libwdi/releases/download/v1.5.1/zadig-2.9.exe>
 - Start zadig
 - Options > show all devices
 - Click on your tablet (for the specified interface)
