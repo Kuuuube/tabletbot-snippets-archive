@@ -1,0 +1,1 @@
+find ./json/*.json -type f -exec sh -c 'cat <<< $(jq . "{}") > "{}"' \;
