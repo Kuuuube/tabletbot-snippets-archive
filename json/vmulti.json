@@ -1,1 +1,9 @@
-{"id": "embed_4543","type": "rich","rawTitle": "Enable kernel-mode input reporting","rawDescription": "- Install [VMulti Driver](<https://github.com/X9VoiD/vmulti-bin/releases/latest>) (NOT VMultiMode)\n- Install and follow instructions from [VMultiMode's wiki](<https://github.com/Kuuuube/VoiDPlugins/wiki/VMultiMode>)\n\nAfter that, you should be good to go!","contentScanVersion": 0,"color": "hsla(261, calc(var(--saturation-factor, 1) * 73.2%), 62%, 1)","fields": []}
+{
+  "id": "embed_4543",
+  "type": "rich",
+  "rawTitle": "Enable kernel-mode input reporting",
+  "rawDescription": "- Install [VMulti Driver](<https://github.com/X9VoiD/vmulti-bin/releases/latest>) (NOT VMultiMode)\n- Install and follow instructions from [VMultiMode's wiki](<https://github.com/Kuuuube/VoiDPlugins/wiki/VMultiMode>)\n\nAfter that, you should be good to go!",
+  "contentScanVersion": 0,
+  "color": "hsla(261, calc(var(--saturation-factor, 1) * 73.2%), 62%, 1)",
+  "fields": []
+}

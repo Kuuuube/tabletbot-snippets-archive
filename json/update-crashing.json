@@ -1,1 +1,8 @@
-{"id":"embed_1037","type":"rich","rawTitle":"If you are experiencing crashing with OpenTabletDriver","rawDescription":"- Make a new folder and move the OpenTabletDriver executables there\n- Make sure that there is __no__ `Configurations` folder if you are using any version higher than 0.5.3.3.\n- Delete or move `%localappdata%\\OpenTabletDriver\\settings.json`\n- Delete or move `%localappdata%\\OpenTabletDriver\\Plugins`","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_1037",
+  "type": "rich",
+  "rawTitle": "If you are experiencing crashing with OpenTabletDriver",
+  "rawDescription": "- Make a new folder and move the OpenTabletDriver executables there\n- Make sure that there is __no__ `Configurations` folder if you are using any version higher than 0.5.3.3.\n- Delete or move `%localappdata%\\OpenTabletDriver\\settings.json`\n- Delete or move `%localappdata%\\OpenTabletDriver\\Plugins`",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

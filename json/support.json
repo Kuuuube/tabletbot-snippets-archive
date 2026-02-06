@@ -1,1 +1,8 @@
-{"id":"embed_2747","type":"rich","rawTitle":"What About Support for xxx Tablet?","rawDescription":"\n[Click here for a full list of supported tablets and caveats.](https://opentabletdriver.net/Tablets)\n\nWe try to support as many tablets as we can get our hands on, but there may be some missing. Fear not! Support can be added relatively easily for (most) tablets. Toss a message in <#1149679256981479464> or a support channel to get yours added!","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_2747",
+  "type": "rich",
+  "rawTitle": "What About Support for xxx Tablet?",
+  "rawDescription": "\n[Click here for a full list of supported tablets and caveats.](https://opentabletdriver.net/Tablets)\n\nWe try to support as many tablets as we can get our hands on, but there may be some missing. Fear not! Support can be added relatively easily for (most) tablets. Toss a message in <#1149679256981479464> or a support channel to get yours added!",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

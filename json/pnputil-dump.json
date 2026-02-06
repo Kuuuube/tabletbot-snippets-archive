@@ -1,1 +1,8 @@
-{"id":"embed_1663","type":"rich","rawTitle":"Get PnPUtil Device and Driver Info","rawDescription":"Open a terminal as admin then run the following commands:```pnputil /enum-drivers > %USERPROFILE%/drivers.txt``````pnputil /enum-devices /connected /drivers > %USERPROFILE%/devices.txt``````explorer "%USERPROFILE%"```You should see a file explorer window pop up. Find the `drivers.txt` and `devices.txt` in that folder and upload them here.","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_1663",
+  "type": "rich",
+  "rawTitle": "Get PnPUtil Device and Driver Info",
+  "rawDescription": "Open a terminal as admin then run the following commands:```pnputil /enum-drivers > %USERPROFILE%/drivers.txt``````pnputil /enum-devices /connected /drivers > %USERPROFILE%/devices.txt``````explorer \"%USERPROFILE%\"```You should see a file explorer window pop up. Find the `drivers.txt` and `devices.txt` in that folder and upload them here.",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

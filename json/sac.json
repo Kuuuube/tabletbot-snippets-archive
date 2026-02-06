@@ -1,1 +1,9 @@
-{"id": "embed_679","type": "rich","rawTitle": "Disable Smart App Control","rawDescription": "- Press the windows key and search `Smart App Control`\n- Set it to `Off`","contentScanVersion": 0,"color": "hsla(261, calc(var(--saturation-factor, 1) * 73.2%), 62%, 1)","fields": []}
+{
+  "id": "embed_679",
+  "type": "rich",
+  "rawTitle": "Disable Smart App Control",
+  "rawDescription": "- Press the windows key and search `Smart App Control`\n- Set it to `Off`",
+  "contentScanVersion": 0,
+  "color": "hsla(261, calc(var(--saturation-factor, 1) * 73.2%), 62%, 1)",
+  "fields": []
+}

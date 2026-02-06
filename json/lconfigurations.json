@@ -1,1 +1,9 @@
-{"id": "embed_1300","type": "rich","rawTitle": "Configuration override on Linux","rawDescription": "- Open `~/.local/share/OpenTabletDriver/Configurations/`.\n  Create it if it does not exist.\n- Move the specified config files into the `Configurations` folder.","contentScanVersion": 0,"color": "hsla(261, calc(var(--saturation-factor, 1) * 73.2%), 62%, 1)","fields": []}
+{
+  "id": "embed_1300",
+  "type": "rich",
+  "rawTitle": "Configuration override on Linux",
+  "rawDescription": "- Open `~/.local/share/OpenTabletDriver/Configurations/`.\n  Create it if it does not exist.\n- Move the specified config files into the `Configurations` folder.",
+  "contentScanVersion": 0,
+  "color": "hsla(261, calc(var(--saturation-factor, 1) * 73.2%), 62%, 1)",
+  "fields": []
+}

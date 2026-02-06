@@ -1,1 +1,8 @@
-{"id":"embed_1031","type":"rich","rawTitle":"Read the TabletBot message","rawDescription":"TabletBot snippets are not automated; they are sent manually via commands to help give quick instructions.\nYou should read and follow them.","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_1031",
+  "type": "rich",
+  "rawTitle": "Read the TabletBot message",
+  "rawDescription": "TabletBot snippets are not automated; they are sent manually via commands to help give quick instructions.\nYou should read and follow them.",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

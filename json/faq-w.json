@@ -1,1 +1,8 @@
-{"id":"embed_2210","type":"rich","rawTitle":"Frequently Asked Questions (Windows)","rawDescription":"[**Windows FAQ**](https://github.com/OpenTabletDriver/OpenTabletDriver/wiki/Windows-FAQ)\n- [DeviceIOException: Unable to open HID class device](https://github.com/OpenTabletDriver/OpenTabletDriver/wiki/Windows-FAQ#deviceioexception-unable-to-open-hid-class-device)\n- [My cursor works fine on the desktop, but not in osu!](https://github.com/OpenTabletDriver/OpenTabletDriver/wiki/Windows-FAQ#my-cursor-works-fine-on-the-desktop-but-not-in-osu)","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_2210",
+  "type": "rich",
+  "rawTitle": "Frequently Asked Questions (Windows)",
+  "rawDescription": "[**Windows FAQ**](https://github.com/OpenTabletDriver/OpenTabletDriver/wiki/Windows-FAQ)\n- [DeviceIOException: Unable to open HID class device](https://github.com/OpenTabletDriver/OpenTabletDriver/wiki/Windows-FAQ#deviceioexception-unable-to-open-hid-class-device)\n- [My cursor works fine on the desktop, but not in osu!](https://github.com/OpenTabletDriver/OpenTabletDriver/wiki/Windows-FAQ#my-cursor-works-fine-on-the-desktop-but-not-in-osu)",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

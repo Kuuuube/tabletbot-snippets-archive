@@ -1,1 +1,8 @@
-{"id":"embed_1562","type":"rich","rawTitle":"Supported Huion/Gaomon tablet is not detected","rawDescription":"Follow instructions from [WinUSBCleanup](https://github.com/X9VoiD/WinUSBCleanup/releases/tag/v1.0)","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_1562",
+  "type": "rich",
+  "rawTitle": "Supported Huion/Gaomon tablet is not detected",
+  "rawDescription": "Follow instructions from [WinUSBCleanup](https://github.com/X9VoiD/WinUSBCleanup/releases/tag/v1.0)",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

@@ -1,1 +1,8 @@
-{"id":"embed_2617","type":"rich","rawTitle":"Enable User Account Control","rawDescription":"- Press the windows key and search for `User Account Control`\n- Put the slider on one of the top two options\n- Click `OK`\n- Restart your computer","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_2617",
+  "type": "rich",
+  "rawTitle": "Enable User Account Control",
+  "rawDescription": "- Press the windows key and search for `User Account Control`\n- Put the slider on one of the top two options\n- Click `OK`\n- Restart your computer",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

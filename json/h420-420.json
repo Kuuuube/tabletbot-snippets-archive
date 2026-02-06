@@ -1,1 +1,8 @@
-{"id":"embed_2854","type":"rich","rawTitle":"Huion H420/420 setup instructions for Windows","rawDescription":"- Download [Zadig](https://github.com/pbatard/libwdi/releases/download/b755/zadig-2.6.exe)\n- Start zadig\n- Options > show all devices\n- Click on H420 or 420 (interface 0)\n- Click on replace driver","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_2854",
+  "type": "rich",
+  "rawTitle": "Huion H420/420 setup instructions for Windows",
+  "rawDescription": "- Download [Zadig](https://github.com/pbatard/libwdi/releases/download/b755/zadig-2.6.exe)\n- Start zadig\n- Options > show all devices\n- Click on H420 or 420 (interface 0)\n- Click on replace driver",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

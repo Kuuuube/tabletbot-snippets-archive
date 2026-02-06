@@ -1,1 +1,8 @@
-{"id":"embed_1663","type":"rich","rawTitle":"Application Data Directory","rawDescription":"**Windows**: `%localappdata%\\OpenTabletDriver`\n**Linux**: `~/.config/OpenTabletDriver` or `/usr/share/OpenTabletDriver`\n**MacOS**: `~/Library/Application Support/OpenTabletDriver`\n[Wiki Reference](https://github.com/OpenTabletDriver/OpenTabletDriver/wiki/General-FAQ#application-data-directory)","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_1663",
+  "type": "rich",
+  "rawTitle": "Application Data Directory",
+  "rawDescription": "**Windows**: `%localappdata%\\OpenTabletDriver`\n**Linux**: `~/.config/OpenTabletDriver` or `/usr/share/OpenTabletDriver`\n**MacOS**: `~/Library/Application Support/OpenTabletDriver`\n[Wiki Reference](https://github.com/OpenTabletDriver/OpenTabletDriver/wiki/General-FAQ#application-data-directory)",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

@@ -1,1 +1,8 @@
-{"id":"embed_1833","type":"rich","rawTitle":"Start OTD minimized on boot of Windows","rawDescription":"- Right click OpenTabletDriver.UX.Wpf.exe -> Create shortcut\n- Right click shortcut -> Properties -> Run -> Minimized\n- Press Win + R -> Type shell:startup -> Press Enter\n- Move the shortcut to the folder that opened","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_1833",
+  "type": "rich",
+  "rawTitle": "Start OTD minimized on boot of Windows",
+  "rawDescription": "- Right click OpenTabletDriver.UX.Wpf.exe -> Create shortcut\n- Right click shortcut -> Properties -> Run -> Minimized\n- Press Win + R -> Type shell:startup -> Press Enter\n- Move the shortcut to the folder that opened",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}

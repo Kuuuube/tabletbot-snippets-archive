@@ -1,1 +1,8 @@
-{"id":"embed_3490","type":"rich","rawTitle":"Uninstalling WinUSB with device manager","rawDescription":"- Open \"Device Manager\"\n- At the top click view > device by container\n- Look at the list of devices\n- Find your tablet\n- Open the dropdown menu (container) next to the tablet\n- Screenshot Device Manager","color":"hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)","fields":[]}
+{
+  "id": "embed_3490",
+  "type": "rich",
+  "rawTitle": "Uninstalling WinUSB with device manager",
+  "rawDescription": "- Open \"Device Manager\"\n- At the top click view > device by container\n- Look at the list of devices\n- Find your tablet\n- Open the dropdown menu (container) next to the tablet\n- Screenshot Device Manager",
+  "color": "hsla(340, calc(var(--saturation-factor, 1) * 82.2%), 51.6%, 1)",
+  "fields": []
+}
