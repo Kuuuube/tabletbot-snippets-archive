@@ -1,0 +1,5 @@
+**Cleanup leftover drivers**
+
+- Download [TabletDriverCleanup](https://github.com/X9VoiD/TabletDriverCleanup/releases/latest)
+- Extract all contents of the zip file
+- Run `TabletDriverCleanup` as Administrator
