@@ -2,7 +2,7 @@
   "id": "embed_1385",
   "type": "rich",
   "rawTitle": "Cleanup leftover drivers",
-  "rawDescription": "- Download [TabletDriverCleanup](https://github.com/X9VoiD/TabletDriverCleanup/releases/latest)\n- Extract all contents of the zip file\n- Run `TabletDriverCleanup` as Administrator",
+  "rawDescription": "- Download [TabletDriverCleanup](https://github.com/OpenTabletDriver/TabletDriverCleanup/releases/latest)\n- Extract all contents of the zip file\n- Run `TabletDriverCleanup` as Administrator",
   "contentScanVersion": 4,
   "color": "hsla(261, calc(var(--saturation-factor, 1) * 73.2%), 62%, 1)",
   "fields": []
