@@ -2,7 +2,7 @@
   "id": "embed_452",
   "type": "rich",
   "rawTitle": "Export Device Driver Info",
-  "rawDescription": "- Download [TabletDriverCleanup](https://github.com/X9VoiD/TabletDriverCleanup/releases/latest)\n- Extract all contents of the zip file\n- Run `dump.bat`\n- Upload `dumps.zip` here",
+  "rawDescription": "- Download [TabletDriverCleanup](https://github.com/OpenTabletDriver/TabletDriverCleanup/releases/latest)\n- Extract all contents of the zip file\n- Run `dump.bat`\n- Upload `dumps.zip` here",
   "contentScanVersion": 4,
   "color": "hsla(261, calc(var(--saturation-factor, 1) * 73.2%), 62%, 1)",
   "fields": []
