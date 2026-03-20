@@ -1,6 +1,6 @@
 **Application Data Directory**
 
 **Windows**: `%localappdata%\OpenTabletDriver`
-**Linux**: `~/.config/OpenTabletDriver` or `/usr/share/OpenTabletDriver`
+**Linux**: `$XDG_CONFIG_HOME/OpenTabletDriver` or `~/.config/OpenTabletDriver`
 **MacOS**: `~/Library/Application Support/OpenTabletDriver`
-[Wiki Reference](https://github.com/OpenTabletDriver/OpenTabletDriver/wiki/General-FAQ#application-data-directory)
+[Wiki Reference](https://opentabletdriver.net/Wiki/FAQ/General#appdata)
