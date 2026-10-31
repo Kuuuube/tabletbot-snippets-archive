@@ -1,0 +1,9 @@
+{
+  "color": 9000933,
+  "contentScanVersion": 0,
+  "fields": [],
+  "id": "embed_1306",
+  "rawDescription": "- Open `Drawing Tablet` in the KDE System Settings\n- Set `Map to screen` to `All Screens` and `Mapped Area` to `Stretch and Fill`.\n- If there is a dropdown with multiple devices you may need to set this on all devices. Including the OpenTabletDriver Virtual Device.\n- In OpenTabletDriver, right click the `Display` area -> `Set to display` -> Select the display you would like to map to. Then Apply/Save.",
+  "rawTitle": "KDE Provides Broken Default Virtual Tablet Settings",
+  "type": "rich"
+}
